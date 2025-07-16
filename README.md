@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este repositório contém o micro frontend responsável pela navbar (barra de navegação) do sistema SysFlow.
+Este repositório contém o microfrontend responsável pela navbar (barra de navegação) do sistema SysFlow.
 
 ## Como rodar localmente
 
@@ -30,5 +30,5 @@ http://localhost:9000/
 
 ## Integração com o root-config
 
-- Nome do micro front-end registrado: `@mfe/navbar`
+- Nome do microfrontend registrado: `@mfe/navbar`
 - Caminho da rota configurada: `/`
